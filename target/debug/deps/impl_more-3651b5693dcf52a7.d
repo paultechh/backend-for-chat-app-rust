@@ -1,0 +1,12 @@
+/Users/gee/Desktop/lessons/rust-programming/chat-app/target/debug/deps/impl_more-3651b5693dcf52a7.d: /Users/gee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/impl-more-0.1.9/src/lib.rs /Users/gee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/impl-more-0.1.9/src/as_ref.rs /Users/gee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/impl-more-0.1.9/src/deref.rs /Users/gee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/impl-more-0.1.9/src/display.rs /Users/gee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/impl-more-0.1.9/src/error.rs /Users/gee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/impl-more-0.1.9/src/from.rs
+
+/Users/gee/Desktop/lessons/rust-programming/chat-app/target/debug/deps/libimpl_more-3651b5693dcf52a7.rlib: /Users/gee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/impl-more-0.1.9/src/lib.rs /Users/gee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/impl-more-0.1.9/src/as_ref.rs /Users/gee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/impl-more-0.1.9/src/deref.rs /Users/gee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/impl-more-0.1.9/src/display.rs /Users/gee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/impl-more-0.1.9/src/error.rs /Users/gee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/impl-more-0.1.9/src/from.rs
+
+/Users/gee/Desktop/lessons/rust-programming/chat-app/target/debug/deps/libimpl_more-3651b5693dcf52a7.rmeta: /Users/gee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/impl-more-0.1.9/src/lib.rs /Users/gee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/impl-more-0.1.9/src/as_ref.rs /Users/gee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/impl-more-0.1.9/src/deref.rs /Users/gee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/impl-more-0.1.9/src/display.rs /Users/gee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/impl-more-0.1.9/src/error.rs /Users/gee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/impl-more-0.1.9/src/from.rs
+
+/Users/gee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/impl-more-0.1.9/src/lib.rs:
+/Users/gee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/impl-more-0.1.9/src/as_ref.rs:
+/Users/gee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/impl-more-0.1.9/src/deref.rs:
+/Users/gee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/impl-more-0.1.9/src/display.rs:
+/Users/gee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/impl-more-0.1.9/src/error.rs:
+/Users/gee/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/impl-more-0.1.9/src/from.rs:
