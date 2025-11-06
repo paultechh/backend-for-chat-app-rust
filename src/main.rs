@@ -59,7 +59,12 @@ async fn main() -> std::io::Result<()> {
         jwt_secret,
     });
 
-    log::info!("Starting server at http://127.0.0.1:8080");
+    let port: u16 = std::env::var("PORT")
+        .ok()
+        .and_then(|p| p.parse().ok())
+        .unwrap_or(8080);
+
+    log::info!("Starting server at http://0.0.0.0:{}", port);
 
     HttpServer::new(move || {
         let cors = Cors::permissive();
@@ -78,7 +83,7 @@ async fn main() -> std::io::Result<()> {
                     .service(ws::ws_handler)
             )
     })
-    .bind(("127.0.0.1", 8080))?
+    .bind(("0.0.0.0", port))?
     .run()
     .await
 }
